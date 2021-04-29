@@ -4,4 +4,5 @@ README.md
 
 
 
-* Patricio Alfaro
+* Mi nombre es Patricio Alfaro
+    *Mi nombre secreto es pokepato
