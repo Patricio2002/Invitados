@@ -1,3 +1,7 @@
 README.md
 ## Lista de invitados
-* Arturo Alfaro 
+* Mi nombre Arturo Alfaro 
+    *Mi nombre secreto es ElBotas
+
+
+
